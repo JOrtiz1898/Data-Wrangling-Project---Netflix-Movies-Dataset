@@ -22,9 +22,13 @@ The outcome is a polished dataset ready for deeper insights into Netflix’s mov
 
 📁 Repository Contents
 File	Description
+
 Data_Wrangling_Project NOTEBOOK.ipynb	Full Jupyter Notebook with all code & documentation
+
 Data_Wrangling_Project HTML.html	HTML export of the notebook for easy viewing
+
 cleaned_movies_netflix.csv	Clean, finalized dataset after wrangling steps
+
 🛠️ Tools & Technologies
 
 Python

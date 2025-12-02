@@ -39,20 +39,6 @@ Jupyter Notebook
 
 Data Wrangling / Data Cleaning Techniques
 
-🚀 How to Use
-
-Clone this repository:
-
-git clone https://github.com/<your-username>/<repo-name>.git
-
-
-Open the notebook:
-
-jupyter notebook "Data_Wrangling_Project NOTEBOOK.ipynb"
-
-
-Explore and analyze the cleaned dataset!
-
 ✨ Key Outcomes
 
 Improved dataset consistency and integrity
